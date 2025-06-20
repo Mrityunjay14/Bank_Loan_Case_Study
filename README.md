@@ -98,4 +98,4 @@ LinkedIn: [Mrityunjay](https://www.linkedin.com/in/mrityunjay-gupta-663290263/) 
 - `application_data_1.xlsx` – Raw dataset
 - `Bank Loan Case Study.pdf` – Detailed report
 - `Presentation.pdf` – Visual summary of the analysis
-- `Bank_Loan_Case_Study.mp4` – Video summary of the analysis
+  
